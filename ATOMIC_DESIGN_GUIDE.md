@@ -111,7 +111,7 @@ lading-page/
 **Seções completas e complexas**
 
 #### `Header`
-- Logo Brendon's Technology
+- Logo Upcode
 - Menu de navegação (Sobre, Recursos, Contato)
 - Sticky header com backdrop blur
 

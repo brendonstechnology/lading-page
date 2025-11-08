@@ -340,7 +340,7 @@ import { Header } from '@/app/components/organisms';
 </div>
 
 // O Header já inclui:
-// - Logo Brendon's Technology
+// - Logo Upcodee
 // - Menu de navegação (Sobre, Recursos, Contato)
 // - Sticky positioning
 // - Backdrop blur

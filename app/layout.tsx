@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Brendon's Technology - Tecnologia de Ponta",
+  title: "Upcode - Tecnologia de Ponta",
   description: "Desenvolvemos soluções inovadoras com foco em performance otimizada, segurança avançada e design intuitivo.",
 };
 

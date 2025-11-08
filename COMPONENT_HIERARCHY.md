@@ -41,8 +41,8 @@
 ### 📌 Header (Organism)
 ```
 Header
-├── Icon (atom) - Logo Brendon's Technology
-├── Text (h2) - "Brendon's Technology"
+├── Icon (atom) - Logo Upcode
+├── Text (h2) - "Upcode"
 └── Nav
     ├── NavItem (molecule) - "Sobre"
     ├── NavItem (molecule) - "Recursos"
