@@ -111,7 +111,7 @@ lading-page/
 **Seções completas e complexas**
 
 #### `Header`
-- Logo Innovatech
+- Logo Brendon's Technology
 - Menu de navegação (Sobre, Recursos, Contato)
 - Sticky header com backdrop blur
 

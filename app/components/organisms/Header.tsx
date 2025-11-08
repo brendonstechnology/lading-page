@@ -15,14 +15,14 @@ export const Header: React.FC = () => {
           <Icon name="hub" size="md" />
         </div>
         <h2 className="text-white text-lg font-bold leading-tight tracking-[-0.015em]">
-          Brendon's Technology
+          Brendon&apos;s Technology
         </h2>
       </div>
       <nav className="hidden sm:flex flex-1 justify-end gap-8">
         <div className="flex items-center gap-9">
           <NavItem href="#sobre">Sobre</NavItem>
           <NavItem href="#recursos">Recursos</NavItem>
-          <NavItem className='bg-primary hover:bg-primary/80 px-2 py-1 rounded-xl' href="#contato">Contato</NavItem>
+          <NavItem className="bg-primary hover:bg-primary/80 px-2 py-1 rounded-xl" href="#contato">Contato</NavItem>
         </div>
       </nav>
     </header>

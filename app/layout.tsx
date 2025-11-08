@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Innovatech - Tecnologia de Ponta",
+  title: "Brendon's Technology - Tecnologia de Ponta",
   description: "Desenvolvemos soluções inovadoras com foco em performance otimizada, segurança avançada e design intuitivo.",
 };
 
@@ -21,7 +21,7 @@ export default function RootLayout({
           rel="stylesheet" 
         />
         <link 
-          href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" 
+          href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined&display=optional" 
           rel="stylesheet" 
         />
       </head>

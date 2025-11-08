@@ -41,8 +41,8 @@
 ### 📌 Header (Organism)
 ```
 Header
-├── Icon (atom) - Logo Innovatech
-├── Text (h2) - "Innovatech"
+├── Icon (atom) - Logo Brendon's Technology
+├── Text (h2) - "Brendon's Technology"
 └── Nav
     ├── NavItem (molecule) - "Sobre"
     ├── NavItem (molecule) - "Recursos"

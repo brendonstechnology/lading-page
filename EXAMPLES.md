@@ -340,7 +340,7 @@ import { Header } from '@/app/components/organisms';
 </div>
 
 // O Header já inclui:
-// - Logo Innovatech
+// - Logo Brendon's Technology
 // - Menu de navegação (Sobre, Recursos, Contato)
 // - Sticky positioning
 // - Backdrop blur
@@ -632,15 +632,15 @@ export default function ContatoPage() {
         <div className="mt-12 flex flex-col gap-4">
           <div className="flex items-center gap-3">
             <Icon name="mail" className="text-cyan" />
-            <span>contato@innovatech.com</span>
+            <span>brendonstechnology@gmail.com</span>
           </div>
           <div className="flex items-center gap-3">
             <Icon name="phone" className="text-cyan" />
-            <span>(11) 98765-4321</span>
+            <span>(61) 98279-6638</span>
           </div>
           <div className="flex items-center gap-3">
             <Icon name="location_on" className="text-cyan" />
-            <span>São Paulo, SP</span>
+            <span>Valparaíso de Goiás, GO</span>
           </div>
         </div>
       </section>
